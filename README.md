@@ -20,27 +20,6 @@ This project retrieves real-time weather data from the OpenWeatherMap API for mu
 1. Python 3.x
 2. `pip` for installing dependencies
 
-### Installation Steps
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/Gokuluvarajofficial/WeatherAppProject.git
-    cd WeatherAppProject
-    ```
-2. Create a virtual environment and activate it:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate   # On Windows: venv\Scripts\activate
-    ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-### Step 1: Fetch the Weather Data
-To fetch weather data for the cities and store it in the SQLite database, run the following command:
-```bash
-python src/real_time_weather.py
-
 ## Screenshots
 
 ### 1. Bangalore Weather Summary
@@ -64,6 +43,32 @@ python src/real_time_weather.py
 ### 7. Overall Weather Summary
 ![Overall Weather Summary](images/weather_summary.png)
 
+## Setup and Installation
+
+### Prerequisites
+1. Python 3.x
+2. `pip` for installing dependencies
+
+### Installation Steps
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Gokuluvarajofficial/WeatherAppProject.git
+    cd WeatherAppProject
+    ```
+2. Create a virtual environment and activate it:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate   # On Windows: venv\Scripts\activate
+    ```
+3. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+### Step 1: Fetch the Weather Data
+To fetch weather data for the cities and store it in the SQLite database, run the following command:
+```bash
+python src/real_time_weather.py
 
 ## Conclusion
 
@@ -72,3 +77,6 @@ This project showcases how real-time weather data can be fetched, stored, and vi
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+
