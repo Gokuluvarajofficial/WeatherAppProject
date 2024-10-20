@@ -64,6 +64,7 @@ python src/real_time_weather.py
 ### 7. Overall Weather Summary
 ![Overall Weather Summary](images/weather_summary.png)
 
+
 ## Conclusion
 
 This project showcases how real-time weather data can be fetched, stored, and visualized using Python. The data is stored in an SQLite database and analyzed to highlight temperature trends and weather conditions across multiple cities. By providing city-specific visualizations along with an overall comparison, it serves as a useful tool for weather data analysis.
