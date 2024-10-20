@@ -69,6 +69,7 @@ This project retrieves real-time weather data from the OpenWeatherMap API for mu
 To fetch weather data for the cities and store it in the SQLite database, run the following command:
 ```bash
 python src/real_time_weather.py
+```
 
 ---
 
