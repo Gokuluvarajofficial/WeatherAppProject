@@ -1,0 +1,398 @@
+2024-10-20 09:14:04,371 - INFO - Fetched data for Bangalore: Temp=22.27°C, Condition=Clouds
+2024-10-20 09:19:11,660 - INFO - Fetched data for Bangalore: Temp=22.27°C, Condition=Clouds
+2024-10-20 09:27:23,437 - INFO - Fetched data for Bangalore: Temp=22.85°C, Condition=Clouds
+2024-10-20 09:45:30,750:INFO:Fetching weather data for Bangalore...
+2024-10-20 09:45:30,752:INFO:Data fetched successfully for Bangalore: Temp: 23.01°C, Condition: Clouds
+2024-10-20 09:45:30,757:ERROR:Failed to save data for Bangalore: unable to open database file
+2024-10-20 09:45:30,935:INFO:Fetching weather data for Mumbai...
+2024-10-20 09:45:30,936:INFO:Data fetched successfully for Mumbai: Temp: 27.99°C, Condition: Mist
+2024-10-20 09:45:30,936:ERROR:Failed to save data for Mumbai: unable to open database file
+2024-10-20 09:45:31,061:INFO:Fetching weather data for Delhi...
+2024-10-20 09:45:31,061:INFO:Data fetched successfully for Delhi: Temp: 27.05°C, Condition: Haze
+2024-10-20 09:45:31,062:ERROR:Failed to save data for Delhi: unable to open database file
+2024-10-20 09:45:31,198:INFO:Fetching weather data for Chennai...
+2024-10-20 09:45:31,199:INFO:Data fetched successfully for Chennai: Temp: 28.87°C, Condition: Mist
+2024-10-20 09:45:31,199:ERROR:Failed to save data for Chennai: unable to open database file
+2024-10-20 09:45:31,334:INFO:Fetching weather data for Kolkata...
+2024-10-20 09:45:31,334:INFO:Data fetched successfully for Kolkata: Temp: 27.97°C, Condition: Mist
+2024-10-20 09:45:31,335:ERROR:Failed to save data for Kolkata: unable to open database file
+2024-10-20 09:45:31,453:INFO:Fetching weather data for Hyderabad...
+2024-10-20 09:45:31,454:INFO:Data fetched successfully for Hyderabad: Temp: 25.23°C, Condition: Haze
+2024-10-20 09:45:31,454:ERROR:Failed to save data for Hyderabad: unable to open database file
+2024-10-20 09:49:39,719:INFO:Fetching weather data for Bangalore...
+2024-10-20 09:49:39,720:INFO:Data fetched successfully for Bangalore: Temp: 23.01°C, Condition: Clouds
+2024-10-20 09:49:39,724:ERROR:Failed to save data for Bangalore: unable to open database file
+2024-10-20 09:49:39,861:INFO:Fetching weather data for Mumbai...
+2024-10-20 09:49:39,861:INFO:Data fetched successfully for Mumbai: Temp: 27.99°C, Condition: Mist
+2024-10-20 09:49:39,862:ERROR:Failed to save data for Mumbai: unable to open database file
+2024-10-20 09:49:40,015:INFO:Fetching weather data for Delhi...
+2024-10-20 09:49:40,015:INFO:Data fetched successfully for Delhi: Temp: 27.05°C, Condition: Haze
+2024-10-20 09:49:40,016:ERROR:Failed to save data for Delhi: unable to open database file
+2024-10-20 09:49:40,140:INFO:Fetching weather data for Chennai...
+2024-10-20 09:49:40,140:INFO:Data fetched successfully for Chennai: Temp: 29.04°C, Condition: Mist
+2024-10-20 09:49:40,141:ERROR:Failed to save data for Chennai: unable to open database file
+2024-10-20 09:49:40,265:INFO:Fetching weather data for Kolkata...
+2024-10-20 09:49:40,265:INFO:Data fetched successfully for Kolkata: Temp: 27.97°C, Condition: Mist
+2024-10-20 09:49:40,266:ERROR:Failed to save data for Kolkata: unable to open database file
+2024-10-20 09:49:40,399:INFO:Fetching weather data for Hyderabad...
+2024-10-20 09:49:40,399:INFO:Data fetched successfully for Hyderabad: Temp: 25.23°C, Condition: Haze
+2024-10-20 09:49:40,399:ERROR:Failed to save data for Hyderabad: unable to open database file
+2024-10-20 09:57:39,804 INFO:Fetching weather data for Bangalore...
+2024-10-20 09:57:39,973 INFO:API Response Status Code: 200
+2024-10-20 09:57:39,974 INFO:Data fetched successfully!
+2024-10-20 09:57:40,010 INFO:Weather data saved for Bangalore
+2024-10-20 09:57:40,011 INFO:Fetching weather data for Mumbai...
+2024-10-20 09:57:40,146 INFO:API Response Status Code: 200
+2024-10-20 09:57:40,146 INFO:Data fetched successfully!
+2024-10-20 09:57:40,155 INFO:Weather data saved for Mumbai
+2024-10-20 09:57:40,156 INFO:Fetching weather data for Delhi...
+2024-10-20 09:57:40,290 INFO:API Response Status Code: 200
+2024-10-20 09:57:40,291 INFO:Data fetched successfully!
+2024-10-20 09:57:40,302 INFO:Weather data saved for Delhi
+2024-10-20 09:57:40,303 INFO:Fetching weather data for Chennai...
+2024-10-20 09:57:40,426 INFO:API Response Status Code: 200
+2024-10-20 09:57:40,426 INFO:Data fetched successfully!
+2024-10-20 09:57:40,437 INFO:Weather data saved for Chennai
+2024-10-20 09:57:40,438 INFO:Fetching weather data for Kolkata...
+2024-10-20 09:57:40,561 INFO:API Response Status Code: 200
+2024-10-20 09:57:40,561 INFO:Data fetched successfully!
+2024-10-20 09:57:40,571 INFO:Weather data saved for Kolkata
+2024-10-20 09:57:40,572 INFO:Fetching weather data for Hyderabad...
+2024-10-20 09:57:40,705 INFO:API Response Status Code: 200
+2024-10-20 09:57:40,705 INFO:Data fetched successfully!
+2024-10-20 09:57:40,712 INFO:Weather data saved for Hyderabad
+2024-10-20 10:27:44,171:INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 10:27:44,173:INFO:Added job "scheduled_fetch" to job store "default"
+2024-10-20 10:27:44,174:INFO:Scheduler started
+2024-10-20 10:28:42,136:INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 10:28:42,137:INFO:Added job "scheduled_fetch" to job store "default"
+2024-10-20 10:28:42,138:INFO:Scheduler started
+2024-10-20 10:37:39,580:INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 10:37:39,583:INFO:Added job "scheduled_fetch" to job store "default"
+2024-10-20 10:37:39,583:INFO:Scheduler started
+2024-10-20 10:38:14,893:INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 10:38:14,895:INFO:Added job "scheduled_fetch" to job store "default"
+2024-10-20 10:38:14,895:INFO:Scheduler started
+2024-10-20 10:40:54,115:INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 10:40:54,117:INFO:Added job "scheduled_fetch" to job store "default"
+2024-10-20 10:40:54,117:INFO:Scheduler started
+2024-10-20 10:42:20,981:INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 10:42:20,982:INFO:Added job "scheduled_fetch" to job store "default"
+2024-10-20 10:42:20,982:INFO:Scheduler started
+2024-10-20 10:45:54,142:INFO:Running job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 10:45:54 IST)" (scheduled at 2024-10-20 10:45:54.115919+05:30)
+2024-10-20 10:45:54,318:INFO:Data saved for Bangalore: Temp: 25.77°C, Condition: Rain
+2024-10-20 10:45:54,454:INFO:Data saved for Mumbai: Temp: 29.99°C, Condition: Haze
+2024-10-20 10:45:54,578:INFO:Data saved for Delhi: Temp: 31.05°C, Condition: Haze
+2024-10-20 10:45:54,697:INFO:Data saved for Chennai: Temp: 29.38°C, Condition: Mist
+2024-10-20 10:45:54,817:INFO:Data saved for Kolkata: Temp: 29.97°C, Condition: Mist
+2024-10-20 10:45:54,938:INFO:Data saved for Hyderabad: Temp: 27.23°C, Condition: Haze
+2024-10-20 10:45:54,938:INFO:Job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 10:50:54 IST)" executed successfully
+2024-10-20 10:47:20,999:INFO:Running job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 10:47:20 IST)" (scheduled at 2024-10-20 10:47:20.980707+05:30)
+2024-10-20 10:47:21,154:INFO:Data saved for Bangalore: Temp: 25.77°C, Condition: Rain
+2024-10-20 10:47:21,273:INFO:Data saved for Mumbai: Temp: 29.99°C, Condition: Haze
+2024-10-20 10:47:21,389:INFO:Data saved for Delhi: Temp: 31.05°C, Condition: Haze
+2024-10-20 10:47:21,560:INFO:Data saved for Chennai: Temp: 29.38°C, Condition: Mist
+2024-10-20 10:47:21,677:INFO:Data saved for Kolkata: Temp: 29.97°C, Condition: Mist
+2024-10-20 10:47:21,795:INFO:Data saved for Hyderabad: Temp: 27.23°C, Condition: Haze
+2024-10-20 10:47:21,796:INFO:Job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 10:52:20 IST)" executed successfully
+2024-10-20 10:49:16,641:INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 10:49:16,644:INFO:Added job "scheduled_fetch" to job store "default"
+2024-10-20 10:49:16,644:INFO:Scheduler started
+2024-10-20 10:52:10,277:INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 10:52:10,280:INFO:Added job "scheduled_fetch" to job store "default"
+2024-10-20 10:52:10,280:INFO:Scheduler started
+2024-10-20 10:54:16,692:INFO:Running job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 10:54:16 IST)" (scheduled at 2024-10-20 10:54:16.641341+05:30)
+2024-10-20 10:54:16,890:INFO:Data saved for Bangalore: Temp: 25.9°C, Condition: Rain
+2024-10-20 10:54:17,016:INFO:Data saved for Mumbai: Temp: 29.99°C, Condition: Haze
+2024-10-20 10:54:17,138:INFO:Data saved for Delhi: Temp: 31.05°C, Condition: Haze
+2024-10-20 10:54:17,278:INFO:Data saved for Chennai: Temp: 29.26°C, Condition: Mist
+2024-10-20 10:54:17,396:INFO:Data saved for Kolkata: Temp: 29.97°C, Condition: Mist
+2024-10-20 10:54:17,520:INFO:Data saved for Hyderabad: Temp: 27.23°C, Condition: Haze
+2024-10-20 10:54:17,520:INFO:Job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 10:59:16 IST)" executed successfully
+2024-10-20 10:57:23,040:INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 10:57:23,042:INFO:Added job "scheduled_fetch" to job store "default"
+2024-10-20 10:57:23,042:INFO:Scheduler started
+2024-10-20 11:02:23,049:INFO:Running job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:02:23 IST)" (scheduled at 2024-10-20 11:02:23.040534+05:30)
+2024-10-20 11:02:23,208:INFO:Weather data saved for Bangalore. Temp: 25.77°C, Condition: Rain
+2024-10-20 11:02:23,341:INFO:Weather data saved for Mumbai. Temp: 29.99°C, Condition: Haze
+2024-10-20 11:02:23,481:INFO:Weather data saved for Delhi. Temp: 31.05°C, Condition: Haze
+2024-10-20 11:02:23,631:INFO:Weather data saved for Chennai. Temp: 29.69°C, Condition: Mist
+2024-10-20 11:02:23,776:INFO:Weather data saved for Kolkata. Temp: 29.97°C, Condition: Mist
+2024-10-20 11:02:23,922:INFO:Weather data saved for Hyderabad. Temp: 27.23°C, Condition: Haze
+2024-10-20 11:02:23,922:INFO:Job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:07:23 IST)" executed successfully
+2024-10-20 11:07:23,045:INFO:Running job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:12:23 IST)" (scheduled at 2024-10-20 11:07:23.040534+05:30)
+2024-10-20 11:07:23,201:INFO:Weather data saved for Bangalore. Temp: 25.98°C, Condition: Rain
+2024-10-20 11:07:23,334:INFO:Weather data saved for Mumbai. Temp: 29.99°C, Condition: Haze
+2024-10-20 11:07:23,463:INFO:Weather data saved for Delhi. Temp: 31.05°C, Condition: Haze
+2024-10-20 11:07:23,598:INFO:Weather data saved for Chennai. Temp: 29.69°C, Condition: Mist
+2024-10-20 11:07:23,738:INFO:Weather data saved for Kolkata. Temp: 29.97°C, Condition: Mist
+2024-10-20 11:07:23,879:INFO:Weather data saved for Hyderabad. Temp: 27.23°C, Condition: Haze
+2024-10-20 11:07:23,879:INFO:Job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:12:23 IST)" executed successfully
+2024-10-20 11:12:23,104:INFO:Running job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:17:23 IST)" (scheduled at 2024-10-20 11:12:23.040534+05:30)
+2024-10-20 11:12:23,333:INFO:Weather data saved for Bangalore. Temp: 25.98°C, Condition: Rain
+2024-10-20 11:12:23,475:INFO:Weather data saved for Mumbai. Temp: 30.99°C, Condition: Haze
+2024-10-20 11:12:23,626:INFO:Weather data saved for Delhi. Temp: 31.05°C, Condition: Haze
+2024-10-20 11:12:23,772:INFO:Weather data saved for Chennai. Temp: 29.96°C, Condition: Mist
+2024-10-20 11:12:23,916:INFO:Weather data saved for Kolkata. Temp: 29.97°C, Condition: Mist
+2024-10-20 11:12:24,055:INFO:Weather data saved for Hyderabad. Temp: 27.23°C, Condition: Haze
+2024-10-20 11:12:24,055:INFO:Job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:17:23 IST)" executed successfully
+2024-10-20 11:14:51,722:INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 11:14:51,724:INFO:Added job "scheduled_fetch" to job store "default"
+2024-10-20 11:14:51,725:INFO:Scheduler started
+2024-10-20 11:17:23,085:INFO:Running job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:22:23 IST)" (scheduled at 2024-10-20 11:17:23.040534+05:30)
+2024-10-20 11:17:23,314:INFO:Weather data saved for Bangalore. Temp: 26.12°C, Condition: Rain
+2024-10-20 11:17:23,454:INFO:Weather data saved for Mumbai. Temp: 30.99°C, Condition: Haze
+2024-10-20 11:17:23,578:INFO:Weather data saved for Delhi. Temp: 31.05°C, Condition: Haze
+2024-10-20 11:17:23,704:INFO:Weather data saved for Chennai. Temp: 29.97°C, Condition: Mist
+2024-10-20 11:17:23,842:INFO:Weather data saved for Kolkata. Temp: 29.97°C, Condition: Mist
+2024-10-20 11:17:23,978:INFO:Weather data saved for Hyderabad. Temp: 28.23°C, Condition: Haze
+2024-10-20 11:17:23,979:INFO:Job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:22:23 IST)" executed successfully
+2024-10-20 11:19:53,167:WARNING:Run time of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:24:51 IST)" was missed by 0:00:01.390041
+2024-10-20 11:22:23,059:INFO:Running job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:27:23 IST)" (scheduled at 2024-10-20 11:22:23.040534+05:30)
+2024-10-20 11:22:23,257:INFO:Weather data saved for Bangalore. Temp: 26.12°C, Condition: Rain
+2024-10-20 11:22:23,395:INFO:Weather data saved for Mumbai. Temp: 30.99°C, Condition: Haze
+2024-10-20 11:22:23,540:INFO:Weather data saved for Delhi. Temp: 31.05°C, Condition: Haze
+2024-10-20 11:22:23,687:INFO:Weather data saved for Chennai. Temp: 29.97°C, Condition: Mist
+2024-10-20 11:22:23,830:INFO:Weather data saved for Kolkata. Temp: 29.97°C, Condition: Mist
+2024-10-20 11:22:23,968:INFO:Weather data saved for Hyderabad. Temp: 28.23°C, Condition: Haze
+2024-10-20 11:22:23,968:INFO:Job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:27:23 IST)" executed successfully
+2024-10-20 11:25:09,806:INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 11:25:09,807:INFO:Added job "scheduled_fetch" to job store "default"
+2024-10-20 11:25:09,807:INFO:Scheduler started
+2024-10-20 11:29:42,729:INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 11:29:42,733:INFO:Added job "scheduled_fetch" to job store "default"
+2024-10-20 11:29:42,733:INFO:Scheduler started
+2024-10-20 11:30:09,875:INFO:Running job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:30:09 IST)" (scheduled at 2024-10-20 11:30:09.805787+05:30)
+2024-10-20 11:35:09,836:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:35:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 11:35:43,872:INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 11:35:43,874:INFO:Added job "scheduled_fetch" to job store "default"
+2024-10-20 11:35:43,874:INFO:Scheduler started
+2024-10-20 11:40:09,873:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:40:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 11:40:43,936:INFO:Running job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:40:43 IST)" (scheduled at 2024-10-20 11:40:43.871012+05:30)
+2024-10-20 11:40:45,409:INFO:Job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:45:43 IST)" executed successfully
+2024-10-20 11:45:09,832:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:45:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 11:45:43,912:INFO:Running job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:50:43 IST)" (scheduled at 2024-10-20 11:45:43.871012+05:30)
+2024-10-20 11:45:45,314:INFO:Job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:50:43 IST)" executed successfully
+2024-10-20 11:46:16,197:INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 11:46:16,204:INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 11:46:16,207:INFO:Added job "scheduled_fetch" to job store "default"
+2024-10-20 11:46:16,207:INFO:Added job "generate_daily_summary" to job store "default"
+2024-10-20 11:46:16,207:INFO:Scheduler started
+2024-10-20 11:50:09,851:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:50:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 11:52:28,101:INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 11:52:28,101:INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 11:52:28,103:INFO:Added job "scheduled_fetch" to job store "default"
+2024-10-20 11:52:28,103:INFO:Added job "generate_daily_summary" to job store "default"
+2024-10-20 11:52:28,103:INFO:Scheduler started
+2024-10-20 11:55:09,831:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:55:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 11:57:28,185:INFO:Running job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 11:57:28 IST)" (scheduled at 2024-10-20 11:57:28.100353+05:30)
+2024-10-20 11:57:28,618:INFO:Weather data saved for Bangalore. Temp: 26.66°C, Condition: Rain
+2024-10-20 11:57:28,800:INFO:Weather data saved for Mumbai. Temp: 30.99°C, Condition: Haze
+2024-10-20 11:57:29,004:INFO:Weather data saved for Delhi. Temp: 32.05°C, Condition: Haze
+2024-10-20 11:57:29,215:INFO:Weather data saved for Chennai. Temp: 30.9°C, Condition: Mist
+2024-10-20 11:57:29,426:INFO:Weather data saved for Kolkata. Temp: 30.97°C, Condition: Haze
+2024-10-20 11:57:29,614:INFO:Weather data saved for Hyderabad. Temp: 28.23°C, Condition: Haze
+2024-10-20 11:57:29,614:INFO:Job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 12:02:28 IST)" executed successfully
+2024-10-20 12:00:09,833:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 12:00:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 12:05:09,843:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 12:05:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 12:09:32,831 INFO:Starting the weather monitoring system...
+2024-10-20 12:09:32,841 INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 12:09:32,841 INFO:Scheduler started
+2024-10-20 12:09:32,841 INFO:Starting weather data fetch...
+2024-10-20 12:09:33,122 INFO:Fetched data for Bangalore: Temp=26.93°C, Condition=light rain
+2024-10-20 12:09:33,377 INFO:Weather data saved for Bangalore
+2024-10-20 12:09:33,540 INFO:Fetched data for Mumbai: Temp=30.99°C, Condition=haze
+2024-10-20 12:09:33,788 INFO:Weather data saved for Mumbai
+2024-10-20 12:09:33,922 INFO:Fetched data for Delhi: Temp=32.05°C, Condition=haze
+2024-10-20 12:09:34,193 INFO:Weather data saved for Delhi
+2024-10-20 12:09:34,314 INFO:Fetched data for Chennai: Temp=31.03°C, Condition=mist
+2024-10-20 12:09:34,581 INFO:Weather data saved for Chennai
+2024-10-20 12:09:34,699 INFO:Fetched data for Kolkata: Temp=30.97°C, Condition=haze
+2024-10-20 12:09:34,710 INFO:Weather data saved for Kolkata
+2024-10-20 12:09:34,871 INFO:Fetched data for Hyderabad: Temp=28.23°C, Condition=haze
+2024-10-20 12:09:34,882 INFO:Weather data saved for Hyderabad
+2024-10-20 12:09:34,887 INFO:Added job "fetch_and_save_weather" to job store "default"
+2024-10-20 12:09:34,887 INFO:Scheduler started
+2024-10-20 12:10:09,833:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 12:10:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 12:14:32,908 INFO:Running job "fetch_and_save_weather (trigger: interval[0:05:00], next run at: 2024-10-20 12:14:32 IST)" (scheduled at 2024-10-20 12:14:32.841165+05:30)
+2024-10-20 12:14:32,920 INFO:Starting weather data fetch...
+2024-10-20 12:14:33,133 INFO:Fetched data for Bangalore: Temp=26.93°C, Condition=light rain
+2024-10-20 12:14:33,151 INFO:Weather data saved for Bangalore
+2024-10-20 12:14:33,335 INFO:Fetched data for Mumbai: Temp=30.99°C, Condition=haze
+2024-10-20 12:14:33,346 INFO:Weather data saved for Mumbai
+2024-10-20 12:14:33,697 INFO:Fetched data for Delhi: Temp=32.05°C, Condition=haze
+2024-10-20 12:14:33,709 INFO:Weather data saved for Delhi
+2024-10-20 12:14:33,857 INFO:Fetched data for Chennai: Temp=31.03°C, Condition=mist
+2024-10-20 12:14:33,867 INFO:Weather data saved for Chennai
+2024-10-20 12:14:33,984 INFO:Fetched data for Kolkata: Temp=30.97°C, Condition=haze
+2024-10-20 12:14:33,994 INFO:Weather data saved for Kolkata
+2024-10-20 12:14:34,114 INFO:Fetched data for Hyderabad: Temp=28.23°C, Condition=haze
+2024-10-20 12:14:34,127 INFO:Weather data saved for Hyderabad
+2024-10-20 12:14:34,127 INFO:Job "fetch_and_save_weather (trigger: interval[0:05:00], next run at: 2024-10-20 12:19:32 IST)" executed successfully
+2024-10-20 12:15:09,839:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 12:15:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 12:19:32,880 INFO:Running job "fetch_and_save_weather (trigger: interval[0:05:00], next run at: 2024-10-20 12:24:32 IST)" (scheduled at 2024-10-20 12:19:32.841165+05:30)
+2024-10-20 12:19:32,884 INFO:Starting weather data fetch...
+2024-10-20 12:19:33,142 INFO:Fetched data for Bangalore: Temp=27.04°C, Condition=light rain
+2024-10-20 12:19:33,192 INFO:Weather data saved for Bangalore
+2024-10-20 12:19:33,360 INFO:Fetched data for Mumbai: Temp=30.99°C, Condition=haze
+2024-10-20 12:19:33,371 INFO:Weather data saved for Mumbai
+2024-10-20 12:19:33,546 INFO:Fetched data for Delhi: Temp=32.05°C, Condition=haze
+2024-10-20 12:19:33,566 INFO:Weather data saved for Delhi
+2024-10-20 12:19:33,747 INFO:Fetched data for Chennai: Temp=31.52°C, Condition=mist
+2024-10-20 12:19:33,758 INFO:Weather data saved for Chennai
+2024-10-20 12:19:33,939 INFO:Fetched data for Kolkata: Temp=30.97°C, Condition=haze
+2024-10-20 12:19:33,949 INFO:Weather data saved for Kolkata
+2024-10-20 12:19:34,137 INFO:Fetched data for Hyderabad: Temp=28.23°C, Condition=haze
+2024-10-20 12:19:34,154 INFO:Weather data saved for Hyderabad
+2024-10-20 12:19:34,154 INFO:Job "fetch_and_save_weather (trigger: interval[0:05:00], next run at: 2024-10-20 12:24:32 IST)" executed successfully
+2024-10-20 12:20:09,843:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 12:20:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 12:23:01,059 INFO:Starting the weather monitoring system...
+2024-10-20 12:23:01,067 INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 12:23:01,067 INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 12:23:01,067 INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 12:23:01,067 INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 12:23:01,067 INFO:Scheduler started
+2024-10-20 12:23:01,067 INFO:Starting weather data fetch...
+2024-10-20 12:23:01,250 INFO:Fetched data for Bangalore: Temp=26.91°C, Feels Like=28.95°C, Condition=Rain
+2024-10-20 12:23:01,257 ERROR:Failed to save data for Bangalore: table weather_data has no column named feels_like
+2024-10-20 12:23:01,403 INFO:Fetched data for Mumbai: Temp=30.99°C, Feels Like=35.33°C, Condition=Haze
+2024-10-20 12:23:01,405 ERROR:Failed to save data for Mumbai: table weather_data has no column named feels_like
+2024-10-20 12:23:01,930 INFO:Fetched data for Delhi: Temp=32.05°C, Feels Like=33.98°C, Condition=Haze
+2024-10-20 12:23:01,933 ERROR:Failed to save data for Delhi: table weather_data has no column named feels_like
+2024-10-20 12:23:02,131 INFO:Fetched data for Chennai: Temp=31.52°C, Feels Like=38.52°C, Condition=Mist
+2024-10-20 12:23:02,133 ERROR:Failed to save data for Chennai: table weather_data has no column named feels_like
+2024-10-20 12:23:02,356 INFO:Fetched data for Kolkata: Temp=30.97°C, Feels Like=36.36°C, Condition=Haze
+2024-10-20 12:23:02,358 ERROR:Failed to save data for Kolkata: table weather_data has no column named feels_like
+2024-10-20 12:23:02,547 INFO:Fetched data for Hyderabad: Temp=28.23°C, Feels Like=30.43°C, Condition=Haze
+2024-10-20 12:23:02,549 ERROR:Failed to save data for Hyderabad: table weather_data has no column named feels_like
+2024-10-20 12:23:02,558 INFO:Added job "fetch_and_save_weather" to job store "default"
+2024-10-20 12:23:02,559 INFO:Added job "calculate_daily_summary" to job store "default"
+2024-10-20 12:23:02,559 INFO:Added job "check_alerts" to job store "default"
+2024-10-20 12:23:02,559 INFO:Added job "generate_visualization" to job store "default"
+2024-10-20 12:23:02,559 INFO:Scheduler started
+2024-10-20 12:23:11,078 INFO:Running job "calculate_daily_summary (trigger: interval[1 day, 0:00:00], next run at: 2024-10-20 12:23:11 IST)" (scheduled at 2024-10-20 12:23:11.067407+05:30)
+2024-10-20 12:23:11,079 INFO:Calculating daily summary...
+2024-10-20 12:23:11,092 INFO:Daily summary saved for Bangalore: Avg Temp=26.96666666666667, Max Temp=27.04, Min Temp=26.93, Condition=light rain
+2024-10-20 12:23:11,100 INFO:Daily summary saved for Mumbai: Avg Temp=30.99, Max Temp=30.99, Min Temp=30.99, Condition=haze
+2024-10-20 12:23:11,108 INFO:Daily summary saved for Delhi: Avg Temp=32.05, Max Temp=32.05, Min Temp=32.05, Condition=haze
+2024-10-20 12:23:11,117 INFO:Daily summary saved for Chennai: Avg Temp=31.19333333333333, Max Temp=31.52, Min Temp=31.03, Condition=mist
+2024-10-20 12:23:11,125 INFO:Daily summary saved for Kolkata: Avg Temp=30.97, Max Temp=30.97, Min Temp=30.97, Condition=haze
+2024-10-20 12:23:11,133 INFO:Daily summary saved for Hyderabad: Avg Temp=28.23, Max Temp=28.23, Min Temp=28.23, Condition=haze
+2024-10-20 12:23:11,133 INFO:Job "calculate_daily_summary (trigger: interval[1 day, 0:00:00], next run at: 2024-10-21 12:23:11 IST)" executed successfully
+2024-10-20 12:23:21,083 INFO:Running job "generate_visualization (trigger: interval[1 day, 0:00:00], next run at: 2024-10-21 12:23:21 IST)" (scheduled at 2024-10-20 12:23:21.067407+05:30)
+2024-10-20 12:23:21,083 INFO:Generating visualizations for daily summaries...
+2024-10-20 12:23:22,698 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:22,700 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:22,701 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:22,702 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:22,702 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:22,704 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,039 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,041 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,042 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,043 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,043 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,044 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,370 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,372 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,373 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,373 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,374 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,374 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,676 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,677 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,677 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,678 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,678 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,678 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,884 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,885 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,886 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,886 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,886 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:23,887 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:24,098 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:24,099 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:24,100 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:24,100 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:24,101 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:24,101 INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-20 12:23:24,213 INFO:Job "generate_visualization (trigger: interval[1 day, 0:00:00], next run at: 2024-10-21 12:23:21 IST)" executed successfully
+2024-10-20 12:25:09,831:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 12:25:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 12:27:41,426 INFO:Starting the weather monitoring system...
+2024-10-20 12:27:41,443 INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 12:27:41,443 INFO:Scheduler started
+2024-10-20 12:27:41,443 INFO:Starting weather data fetch...
+2024-10-20 12:27:41,614 ERROR:Failed to fetch data for Bangalore. API Response Status Code: 401
+2024-10-20 12:27:41,733 ERROR:Failed to fetch data for Mumbai. API Response Status Code: 401
+2024-10-20 12:27:41,857 ERROR:Failed to fetch data for Delhi. API Response Status Code: 401
+2024-10-20 12:27:41,978 ERROR:Failed to fetch data for Chennai. API Response Status Code: 401
+2024-10-20 12:27:42,139 ERROR:Failed to fetch data for Kolkata. API Response Status Code: 401
+2024-10-20 12:27:42,267 ERROR:Failed to fetch data for Hyderabad. API Response Status Code: 401
+2024-10-20 12:27:42,274 INFO:Added job "fetch_and_save_weather" to job store "default"
+2024-10-20 12:27:42,274 INFO:Scheduler started
+2024-10-20 12:30:09,853:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 12:30:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 12:31:15,396 INFO:Starting the weather monitoring system...
+2024-10-20 12:31:15,407 INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 12:31:15,407 INFO:Scheduler started
+2024-10-20 12:31:15,407 INFO:Starting weather data fetch...
+2024-10-20 12:31:15,568 INFO:Fetched data for Bangalore: Temp=26.91°C, Condition=light rain
+2024-10-20 12:31:15,579 INFO:Weather data saved for Bangalore
+2024-10-20 12:31:15,709 INFO:Fetched data for Mumbai: Temp=30.99°C, Condition=haze
+2024-10-20 12:31:15,723 INFO:Weather data saved for Mumbai
+2024-10-20 12:31:15,849 INFO:Fetched data for Delhi: Temp=32.05°C, Condition=haze
+2024-10-20 12:31:15,859 INFO:Weather data saved for Delhi
+2024-10-20 12:31:16,016 INFO:Fetched data for Chennai: Temp=31.47°C, Condition=mist
+2024-10-20 12:31:16,030 INFO:Weather data saved for Chennai
+2024-10-20 12:31:16,175 INFO:Fetched data for Kolkata: Temp=30.97°C, Condition=haze
+2024-10-20 12:31:16,188 INFO:Weather data saved for Kolkata
+2024-10-20 12:31:16,316 INFO:Fetched data for Hyderabad: Temp=28.23°C, Condition=haze
+2024-10-20 12:31:16,329 INFO:Weather data saved for Hyderabad
+2024-10-20 12:31:16,333 INFO:Added job "fetch_and_save_weather" to job store "default"
+2024-10-20 12:31:16,334 INFO:Scheduler started
+2024-10-20 12:35:09,841:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 12:35:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 12:37:17,456 INFO:Starting the weather monitoring system...
+2024-10-20 12:37:17,477 INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 12:37:17,477 INFO:Scheduler started
+2024-10-20 12:37:17,477 INFO:Starting weather data fetch...
+2024-10-20 12:37:17,660 INFO:Fetched data for Bangalore: Temp=26.91°C, Condition=light rain
+2024-10-20 12:37:17,671 INFO:Weather data saved for Bangalore
+2024-10-20 12:37:17,800 INFO:Fetched data for Mumbai: Temp=30.99°C, Condition=haze
+2024-10-20 12:37:17,812 INFO:Weather data saved for Mumbai
+2024-10-20 12:37:17,956 INFO:Fetched data for Delhi: Temp=32.05°C, Condition=haze
+2024-10-20 12:37:17,964 INFO:Weather data saved for Delhi
+2024-10-20 12:37:18,086 INFO:Fetched data for Chennai: Temp=31.36°C, Condition=mist
+2024-10-20 12:37:18,098 INFO:Weather data saved for Chennai
+2024-10-20 12:37:18,222 INFO:Fetched data for Kolkata: Temp=30.97°C, Condition=haze
+2024-10-20 12:37:18,235 INFO:Weather data saved for Kolkata
+2024-10-20 12:37:18,361 INFO:Fetched data for Hyderabad: Temp=28.23°C, Condition=haze
+2024-10-20 12:37:18,373 INFO:Weather data saved for Hyderabad
+2024-10-20 12:37:18,378 INFO:Added job "fetch_and_save_weather" to job store "default"
+2024-10-20 12:37:18,378 INFO:Scheduler started
+2024-10-20 12:40:09,856:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 12:40:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 12:40:49,961 INFO:Starting the weather monitoring system...
+2024-10-20 12:40:49,979 INFO:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-20 12:40:49,979 INFO:Scheduler started
+2024-10-20 12:40:49,979 INFO:Starting weather data fetch...
+2024-10-20 12:40:50,161 INFO:Fetched data for Bangalore: Temp=27.17°C, Condition=light rain
+2024-10-20 12:40:50,171 INFO:Weather data saved for Bangalore
+2024-10-20 12:40:50,297 INFO:Fetched data for Mumbai: Temp=31.99°C, Condition=haze
+2024-10-20 12:40:50,314 INFO:Weather data saved for Mumbai
+2024-10-20 12:40:50,454 INFO:Fetched data for Delhi: Temp=32.05°C, Condition=haze
+2024-10-20 12:40:50,467 INFO:Weather data saved for Delhi
+2024-10-20 12:40:50,588 INFO:Fetched data for Chennai: Temp=31.49°C, Condition=mist
+2024-10-20 12:40:50,604 INFO:Weather data saved for Chennai
+2024-10-20 12:40:50,735 INFO:Fetched data for Kolkata: Temp=30.97°C, Condition=haze
+2024-10-20 12:40:50,748 INFO:Weather data saved for Kolkata
+2024-10-20 12:40:50,887 INFO:Fetched data for Hyderabad: Temp=28.23°C, Condition=haze
+2024-10-20 12:40:50,897 INFO:Weather data saved for Hyderabad
+2024-10-20 12:40:50,900 INFO:Added job "fetch_and_save_weather" to job store "default"
+2024-10-20 12:40:50,901 INFO:Scheduler started
+2024-10-20 12:45:09,887:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 12:45:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 12:50:09,886:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 12:50:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 12:55:09,837:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 12:55:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 13:00:09,841:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 13:00:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 13:05:09,852:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 13:05:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 13:10:09,861:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 13:10:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 13:15:09,838:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 13:15:09 IST)" skipped: maximum number of running instances reached (1)
+2024-10-20 13:20:09,835:WARNING:Execution of job "scheduled_fetch (trigger: interval[0:05:00], next run at: 2024-10-20 13:20:09 IST)" skipped: maximum number of running instances reached (1)
