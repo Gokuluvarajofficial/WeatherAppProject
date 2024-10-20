@@ -70,9 +70,13 @@ To fetch weather data for the cities and store it in the SQLite database, run th
 ```bash
 python src/real_time_weather.py
 
+---
+
 ## Conclusion
 
 This project showcases how real-time weather data can be fetched, stored, and visualized using Python. The data is stored in an SQLite database and analyzed to highlight temperature trends and weather conditions across multiple cities. By providing city-specific visualizations along with an overall comparison, it serves as a useful tool for weather data analysis.
+
+---
 
 ## License
 
