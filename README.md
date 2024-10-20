@@ -20,29 +20,6 @@ This project retrieves real-time weather data from the OpenWeatherMap API for mu
 1. Python 3.x
 2. `pip` for installing dependencies
 
-## Screenshots
-
-### 1. Bangalore Weather Summary
-![Bangalore Weather Summary](images/Bangalore_weather_summary.png)
-
-### 2. Chennai Weather Summary
-![Chennai Weather Summary](images/Chennai_weather_summary.png)
-
-### 3. Delhi Weather Summary
-![Delhi Weather Summary](images/Delhi_weather_summary.png)
-
-### 4. Hyderabad Weather Summary
-![Hyderabad Weather Summary](images/Hyderabad_weather_summary.png)
-
-### 5. Kolkata Weather Summary
-![Kolkata Weather Summary](images/Kolkata_weather_summary.png)
-
-### 6. Mumbai Weather Summary
-![Mumbai Weather Summary](images/Mumbai_weather_summary.png)
-
-### 7. Overall Weather Summary
-![Overall Weather Summary](images/weather_summary.png)
-
 ## Setup and Installation
 
 ### Prerequisites
@@ -70,6 +47,28 @@ To fetch weather data for the cities and store it in the SQLite database, run th
 ```bash
 python src/real_time_weather.py
 ```
+## Screenshots
+
+### 1. Bangalore Weather Summary
+![Bangalore Weather Summary](images/Bangalore_weather_summary.png)
+
+### 2. Chennai Weather Summary
+![Chennai Weather Summary](images/Chennai_weather_summary.png)
+
+### 3. Delhi Weather Summary
+![Delhi Weather Summary](images/Delhi_weather_summary.png)
+
+### 4. Hyderabad Weather Summary
+![Hyderabad Weather Summary](images/Hyderabad_weather_summary.png)
+
+### 5. Kolkata Weather Summary
+![Kolkata Weather Summary](images/Kolkata_weather_summary.png)
+
+### 6. Mumbai Weather Summary
+![Mumbai Weather Summary](images/Mumbai_weather_summary.png)
+
+### 7. Overall Weather Summary
+![Overall Weather Summary](images/weather_summary.png)
 
 ---
 
